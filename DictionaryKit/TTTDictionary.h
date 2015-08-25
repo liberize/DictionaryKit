@@ -100,3 +100,8 @@ extern NSString * const DCSSimplifiedChineseDictionaryName;
 extern NSString * const DCSSimplifiedChinese_EnglishDictionaryName;
 extern NSString * const DCSSpanishDictionaryName;
 extern NSString * const DCSWikipediaDictionaryName;
+extern NSString * const DCSThaiDictionaryName;
+extern NSString * const DCSTurkishDictionaryName;
+extern NSString * const DCSPortugueseDictionaryName;
+extern NSString * const DCSRussianDictionaryName;
+extern NSString * const DCSSpanish_EnglishDictionaryName;
