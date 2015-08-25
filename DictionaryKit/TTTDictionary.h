@@ -42,6 +42,8 @@
  */
 @property (readonly, nonatomic, copy) NSString *HTML;
 
+@property (readonly, nonatomic, copy) NSString *HTMLWithCSS;
+
 @end
 
 #pragma mark -
